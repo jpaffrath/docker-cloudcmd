@@ -1,4 +1,4 @@
-## docker-cloudcmd
+## :whale: docker-cloudcmd
 Docker Container based on Alpine for https://github.com/coderaiser/cloudcmd
 
 ## Build
